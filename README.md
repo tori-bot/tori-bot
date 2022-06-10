@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I'm Victoria.
+## I'm Victoria, a Developer.
+![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://media.istockphoto.com/vectors/african-american-woman-freelancer-working-on-laptop-at-home-in-girl-vector-id1262681653?k=20&m=1262681653&s=612x612&w=0&h=Mf7vU96by1a5R6JsyXiAHjuFfFuEwhY_Wvh85b98YPk=))
 
 - 🔭 I’m currently working on Building Portfolio Projects to showcase my talents.
 - 🌱 I’m currently learning the Django framework.
