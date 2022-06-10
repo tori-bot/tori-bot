@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Victoria, a Developer.
-![istockphoto-1248134301-612x612](https://user-images.githubusercontent.com/62370216/173157645-a323a3f8-9aaa-4099-8739-c67f59872d2a.jpg)
+![istockphoto-1318220523-612x612](https://user-images.githubusercontent.com/62370216/173157788-433f9814-1bca-4c6b-82bc-9ff095938dcb.jpg)
 
 - 🔭 I’m currently working on Building Portfolio Projects to showcase my talents.
 - 🌱 I’m currently learning the Django framework.
